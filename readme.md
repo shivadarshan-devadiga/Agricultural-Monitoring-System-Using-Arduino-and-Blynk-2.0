@@ -137,7 +137,7 @@ Below are the connections for each component:
    - Download and install the **Blynk 2.0** app from the App Store or Google Play.
    - Create a new project, choose **ESP8266** as the hardware, and note down the **Auth Token**.
    - Configure virtual pins in the Blynk app to match your sensors and actuators.
-   - **Note**: Detailed Blynk setup instructions are included in the [**Blynk Setup PDF**](setup.pdf).
+   - **Note**: Detailed Blynk setup instructions are included in the [**Blynk Setup PDF**](Setup.pdf).
 
 ### 4. **Configure Arduino IDE**:
    - Select **NodeMCU 1.0 (ESP-12E Module)** under **Tools > Board**.
